@@ -1,1 +1,3 @@
 # CurrencyConverter
+
+![](./output.png)
